@@ -61,5 +61,3 @@ stage('Push Images To DockerHUb') {
    }
    }
 }
-
-}
